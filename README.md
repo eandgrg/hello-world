@@ -1,2 +1,2 @@
 # hello-world
-hello-world  repo description
+this is a hello-world  repo description
